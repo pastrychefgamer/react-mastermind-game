@@ -22,7 +22,7 @@ Test your brain and try and crack the code!!  Many combinations and difficulties
 - MongoDB
 
 ## Getting Started
-Visit to https://git.heroku.com/its-react-mastermind.git get started!
+Visit to https://its-react-mastermind.herokuapp.com get started!
 
 You can play the game without logging in or signing up but if you want to save and share your high score you must signup or login.
 To play the game you must choose a difficulty.  Try to crack the code by choosing one of the colors and placing it in the one or more of the empty circles.  After you have made all of your selections click on the  to see if you've cracked the code.  A solid dot means you have a correct color in the correct spot and an empty circle means you have a correct color but it's not in the corect spot.  Get all the colors in the correct spots to win!!
